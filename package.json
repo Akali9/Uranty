@@ -1,0 +1,24 @@
+{
+  "name": "uranty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "engines": {
+    "node": "16.x"
+  },
+
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1630584468.841956",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12"
+  }
+}
